@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <!DOCTYPE html>
 <html>
 
@@ -12,7 +12,7 @@
    </body>
 	
 </html>
-
+### Hi there 👋
 - 🔭 I’m currently working on creating GUI projects using front end and back end
 - 🌱 I’m currently learning about Machine learning and Data Science
 - 👯 I’m looking to collaborate on Artificial Intelligence projects and research papers
