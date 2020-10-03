@@ -1,4 +1,17 @@
 ### Hi there 👋
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>Welcome to my page</title>
+   </head>
+	
+   <body>
+  <p style="color:blue:">This is something about me</p>
+      <marquee>It is innovation and inquisitiveness that makes it intriguing!</marquee>
+   </body>
+	
+</html>
 
 - 🔭 I’m currently working on creating GUI projects using front end and back end
 - 🌱 I’m currently learning about Machine learning and Data Science
