@@ -10,7 +10,11 @@ Thank you!
 	
 	You can find me on:
 	https://www.hackerrank.com/simmusaara
+	
 	www.linkedin.com/in/simran-anand-157a821a5
+	
 	https://dev.to/simrananand1
+	
 	https://medium.com/@simmusaara
+	
 	https://leetcode.com/SimranAnand/
