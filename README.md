@@ -1,6 +1,6 @@
 ### Hi there👋 I'm Simran!
 
-- ✨ I’m currently working on creating GUI projects, ML and Data Science projects 
+- ✨ I’m currently working on creating GUI projects, ML and Web Development projects 
 - 🔹 I’m currently learning about Machine learning and Data Science
 - 🌟 I’m looking to collaborate on Artificial Intelligence projects and research papers
 - 💫 My hobbies include coding,programming,exploring new things about technology,giving eloquent and motivational speeches.
