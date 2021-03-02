@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrananand1&label=Profile%20views&color=0e75b6&style=flat" alt="simrananand1" /> </p>
 
-- 🔭 I’m currently working on **Data Science and Machine Learning projects**
+- 🔭 I’m currently working on **Data Science and Natural Language Processing projects**
 
-- 🌱 I’m currently learning **AI,, ML and Web Technologies**
+- 🌱 I’m currently learning **AI, ML and Web Technologies**
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence research and projects**
 
