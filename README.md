@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence research and projects**
 
-- 🤝 I’m looking for help with **Full Stack Web technologies**
+- 🤝 I’m looking for help with **Full Stack Development Technologies**
 
 - Connect with me on LinkedIn !! [www.linkedin.com/in/simran-anand-157a821a5](www.linkedin.com/in/simran-anand-157a821a5)
 
