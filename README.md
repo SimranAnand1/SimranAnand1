@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@simmusaara](https://medium.com/@simmusaara)
 
-- 💬 Ask me about **Databases, Data Structures, Programming and Data Analytics**
+- 💬 Ask me about **Databases, Data Structures, Data Analytics, Programming languages like Java and Python **
 
 - 📫 How to reach me **simrananand112@gmail.com**
 
