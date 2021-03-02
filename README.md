@@ -13,7 +13,7 @@
 
 - Connect with me on LinkedIn !! [www.linkedin.com/in/simran-anand-157a821a5](www.linkedin.com/in/simran-anand-157a821a5)
 
-- 📝 I regularly write articles on [https://medium.com/@simmusaara](https://medium.com/@simmusaara)
+- 📝 I look forward to solving problems using innovative solutions!
 
 - 💬 Ask me about **Databases, Data Structures, Data Analytics, Programming languages like Java and Python **
 
