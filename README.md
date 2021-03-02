@@ -15,7 +15,7 @@
 
 - 📝 I look forward to solving problems using innovative solutions!
 
-- 💬 Ask me about **Databases, Data Structures, Data Analytics, Programming languages like Java and Python **
+- 💬 Ask me about **Databases, Data Structures, Data Analytics, Programming languages like Java and Python**
 
 - 📫 How to reach me **simrananand112@gmail.com**
 
