@@ -25,13 +25,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/simrananand1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/simrananand1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/simran-anand-157a821a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/simran-anand-157a821a5/" height="30" width="40" /></a>
+<a href="https://dev.to/simrananand1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/simrananand1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/simran-anand-157a821a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/simran-anand-157a821a5/" height="30" width="40" /></a>
 <a href="https://kaggle.com/simrananand1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="simrananand1" height="30" width="40" /></a>
 <a href="https://instagram.com/simran_anand._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="simran_anand._" height="30" width="40" /></a>
 <a href="https://medium.com/@simmusaara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@simmusaara" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/simmusaara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/simmusaara" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/simrananand/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/simrananand/" height="30" width="40" /></a>
+<a href="https://hackerrank.com/simmusaara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/simmusaara" height="30" width="40" /></a>
+<a href="https://leetcode.com/simrananand/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/simrananand/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
