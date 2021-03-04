@@ -17,7 +17,8 @@
 
 - 💬 Ask me about **Databases, Data Structures, Data Analytics, Programming languages like Java and Python**
 
-- 📫 How to reach me **simrananand112@gmail.com**
+- 📫 To know more about me!:  [https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)
+- Email:  **simrananand112@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/simran-anand-157a821](https://www.linkedin.com/in/simran-anand-157a821a5)
 
