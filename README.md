@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/simran-anand-157a821](https://www.linkedin.com/in/simran-anand-157a821a5)
 
-- ⚡ Personality fact :  **A spontaneous and eloquent Speaker with good communication and oratory skills! Ambitious, optimistic and amicable!**
+- ⚡ Personality fact :  **A spontaneous and eloquent speaker with good communication and oratory skills! Ambitious, optimistic and amicable!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
