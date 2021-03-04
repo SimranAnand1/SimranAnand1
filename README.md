@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Full Stack Development Technologies**
 
-- ⚡Connect with me on LinkedIn !! **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
+- ⚡ Connect with me on LinkedIn !! **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
 
 - 📝 I look forward to solving problems using innovative solutions!
 - 📄 My Personal Portfolio : **https://simrananand112.wixsite.com/website**
