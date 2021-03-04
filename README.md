@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Full Stack Development Technologies**
 
-- Connect with me on LinkedIn !! **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
+- ⚡Connect with me on LinkedIn !! **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
 
 - 📝 I look forward to solving problems using innovative solutions!
 - 📄 My Personal Portfolio : **https://simrananand112.wixsite.com/website**
@@ -20,8 +20,6 @@
 
 - 📫 To know more about me!:  **https://simrananand112.wixsite.com/website** or **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
 - Email:  simrananand112@gmail.com
-
-- 📄 Know about my experiences: **[https://www.linkedin.com/in/simran-anand-157a821](https://www.linkedin.com/in/simran-anand-157a821a5)** or **https://simrananand112.wixsite.com/website**
 
 - ⚡ Personality fact :  **A spontaneous and eloquent speaker with good communication and oratory skills! Ambitious, optimistic and amicable!**
 
