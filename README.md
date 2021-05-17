@@ -22,7 +22,10 @@
 - Email:  simrananand112@gmail.com
 
 - ⚡ Personality fact :  **A spontaneous and eloquent speaker with good communication and oratory skills! Ambitious, optimistic and amicable!
-                            https://link.medium.com/Y6yXUW2K9eb**
+                            https://link.medium.com/Y6yXUW2K9eb
+https://medium.com/@simmusaara/sentiment-analysis-via-nlp-5b3cf4669063
+https://medium.com/@simmusaara/the-elegant-front-end-comes-only-after-the-tedious-back-end-f846afaefa7
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
