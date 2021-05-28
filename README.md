@@ -21,7 +21,7 @@
 - 📫 To know more about me:  **https://simrananand112.wixsite.com/website** or **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
 - Email:  simrananand112@gmail.com
 
-- ⚡ Personality fact :  **Spontaneous, optimistic and amicable!**
+- ⚡ Personality fact :  **People person, persistent and amicable!**
 - **Some of my blogs are below!**
                             https://link.medium.com/Y6yXUW2K9eb
                             
