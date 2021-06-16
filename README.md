@@ -47,5 +47,5 @@ https://medium.com/@simmusaara/the-elegant-front-end-comes-only-after-the-tediou
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimranAnand1&layout=compact" alt="simrananand1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simrananand1&count_private=true&show_icons=true&locale=en&hide=contribs" alt="simrananand1"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SimranAnand1&show_icons=true&theme=radical&hide=contribs" alt="simrananand1"/></p>
 
