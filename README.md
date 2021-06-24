@@ -23,7 +23,9 @@
 
 - ⚡ Personality fact :  **Persistent, amicable and logophile! As an altruistic person I like helping people for motivation and advice. An effective communicator with strong analytical and interpersonal skills!**
 - **Some of my blogs are below!**
-                            https://link.medium.com/Y6yXUW2K9eb
+https://link.medium.com/Y6yXUW2K9eb
+
+https://link.medium.com/R6kVxl54lhb
                             
 https://medium.com/@simmusaara/sentiment-analysis-via-nlp-5b3cf4669063
 
