@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simran Anand</h1>
-<h3 align="center">Computer Science Engineering Sophomore from VIT University| Data Science and Artificial Intelligence enthusiast | Interested in Coding and Web Development</h3>
+<h3 align="center">Computer Science Engineering Sophomore from VIT University| Data Science and Artificial Intelligence enthusiast | Interested in Coding, Artificial Intelligence and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrananand1&label=Profile%20views&color=0e75b6&style=flat" alt="simrananand1" /> </p>
 
@@ -24,11 +24,8 @@
 - ⚡ Personality fact :  **Persistent, amicable and logophile! As an altruistic person I like helping people for motivation and advice. An effective communicator with strong analytical and interpersonal skills!**
 - **Some of my blogs are below!**
 https://link.medium.com/Y6yXUW2K9eb
-
-https://link.medium.com/R6kVxl54lhb
-                            
+https://link.medium.com/R6kVxl54lhb                            
 https://medium.com/@simmusaara/sentiment-analysis-via-nlp-5b3cf4669063
-
 https://medium.com/@simmusaara/the-elegant-front-end-comes-only-after-the-tedious-back-end-f846afaefa7
 
 <h3 align="left">Connect with me:</h3>
