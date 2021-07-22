@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simran Anand</h1>
+<h1 align="center">Hi 👋, I'm Simran Anand ✨</h1>
 <h3 align="center">Computer Science Engineering Sophomore from VIT University| Data Science and Artificial Intelligence enthusiast | Interested in Coding, Artificial Intelligence and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrananand1&label=Profile%20views&color=0e75b6&style=flat" alt="simrananand1" /> </p>
@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **Full Stack Development Technologies**
 
-- ⚡ Connect with me on LinkedIn !! **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
+- ⚡ Connect with me on LinkedIn: **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
 
-- 📝 I look forward to solving problems using innovative solutions and participating in hackathons
+- 📝 I look forward to solving problems using innovative solutions and participating in hackathons 💫
 - 📄 My Personal Portfolio : **https://simrananand112.wixsite.com/website**
 
 - 💬 Ask me about **Databases, Data Structures, Data Analytics, Programming languages like Java, Python, R and SQL**
