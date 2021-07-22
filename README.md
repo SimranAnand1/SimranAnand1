@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **AI, ML and Web Technologies**
 
-- 👯 I’m looking to collaborate on **Artificial Intelligence research and projects**
+- 💫 I’m looking to collaborate on **Artificial Intelligence research and projects**
 
 - 🤝 I’m looking for help with **Full Stack Development Technologies**
 
-- ⚡ Connect with me on LinkedIn: **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
+- ✨ Connect with me on LinkedIn: **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
 
 - 📝 I look forward to solving problems using innovative solutions and participating in hackathons 💫
 - 📄 My Personal Portfolio : **https://simrananand112.wixsite.com/website**
@@ -19,10 +19,10 @@
 - 💬 Ask me about **Databases, Data Structures, Data Analytics, Programming languages like Java, Python, R and SQL**
 
 - 📫 To know more about me:  **https://simrananand112.wixsite.com/website** or **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
-- Email:  simrananand112@gmail.com
+- 🔸 Email:  simrananand112@gmail.com
 
 - ⚡ Personality fact :  **Persistent, amicable and logophile! As an altruistic person I like helping people for motivation and advice. An effective communicator with strong analytical and interpersonal skills!**
-- **Some of my blogs are below!**
+- ⭐ **Some of my blogs are below!**
 https://link.medium.com/Y6yXUW2K9eb
 https://link.medium.com/R6kVxl54lhb                            
 https://medium.com/@simmusaara/sentiment-analysis-via-nlp-5b3cf4669063
