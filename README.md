@@ -16,7 +16,7 @@
 - 📝 I look forward to solving problems using innovative solutions and participating in hackathons 💫
 - 📄 My Personal Portfolio : **https://simrananand112.wixsite.com/website**
 
-- 💬 Ask me about **Databases, Data Structures, Data Analytics, Programming languages like Java, Python, R and SQL**
+- 💬 Ask me about **NLP, ML, Databases, Data Structures, Data Analytics, Programming languages like Java, Python, R and SQL**
 
 - 📫 To know more about me:  **https://simrananand112.wixsite.com/website** or **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
 - 🔸 Email:  simrananand112@gmail.com
