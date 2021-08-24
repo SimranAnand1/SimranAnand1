@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Computer Vision and Natural Language Processing projects**
 
-- 🌱 I’m currently learning **AI, ML and Web Technologies**
+- 🌱 I’m currently learning **AI, Deep Learning and Web Technologies**
 
 - 💫 I’m looking to collaborate on **Artificial Intelligence research and Data Science projects**
 
