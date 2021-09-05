@@ -15,6 +15,7 @@
 
 - 📝 I look forward to solving problems using innovative solutions and participating in hackathons 💫
 - 📄 My Personal Portfolio : **https://simrananand112.wixsite.com/website**
+- 💎 GitHub Generated Resume: **https://resume.github.io/?SimranAnand1**
 
 - 💬 Ask me about **NLP, ML, Databases, Data Structures, Data Analytics, Programming languages like Java, Python, R and SQL**
 
