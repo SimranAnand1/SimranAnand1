@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Computer Vision and Natural Language Processing projects**
 
-- 🌱 I’m currently learning **AI, Deep Learning and Web Technologies**
+- 🌱 I’m currently learning **Deep Learning and Web Technologies**
 
 - 💫 I’m looking to collaborate on **Artificial Intelligence research and Data Science projects**
 
@@ -22,7 +22,7 @@
 - 📫 To know more about me:  **https://simrananand112.wixsite.com/website** or **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
 - 🔸 Email:  simrananand112@gmail.com
 
-- ⚡ Personality fact :  **Persistent, amicable and logophile! As an altruistic person I like helping people for motivation and advice. An effective communicator with strong analytical and interpersonal skills!**
+- ⚡ Personality fact :  **Persistent, amicable and logophile! A people person and I like helping people for motivation and advice. An effective communicator with strong analytical and interpersonal skills!**
 - ⭐ **Some of my blogs are below!**
 https://link.medium.com/Y6yXUW2K9eb
 https://link.medium.com/R6kVxl54lhb                            
