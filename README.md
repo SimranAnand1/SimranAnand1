@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrananand1&label=Profile%20views&color=0e75b6&style=flat" alt="simrananand1" /> </p>
 
-- 🔭 I’m currently working on **Computer Vision and Natural Language Processing projects**
+- 🔭 I’m currently working on **Computer Vision, Deep Learning and Natural Language Processing projects**
 
-- 🌱 I’m currently learning **Deep Learning, Web and Mobile App Technologies**
+- 🌱 I’m currently learning **Advanced Data Structures and Algorithms to solve problems efficiently**
 
-- 💫 I’m looking to collaborate on **Artificial Intelligence research and Data Science projects**
+- 💫 I’m looking to collaborate on **Artificial Intelligence and Data Science projects, Hackathons and Coding Contests**
 
-- 🤝 I’m looking for help with **Full Stack Development Technologies**
+- 🤝 I’m looking for help with **Full Stack Development Technologies and Mobile Apps Deployment**
 
 - ✨ Connect with me on LinkedIn: **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
 
