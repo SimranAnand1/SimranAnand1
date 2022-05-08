@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simrananand1&label=Profile%20views&color=0e75b6&style=flat" alt="simrananand1" /> </p>
 
-- 🔭 I’m currently working on **Computer Vision, Deep Learning and Natural Language Processing projects**
+- 🔭 I’m currently working on **Computer Vision, Deep Learning and Natural Language Processing projects. Apart from projects, working on Data Structures and Algorithms problems to solve them optimally.**
 
 - 🌱 I’m currently learning **Advanced Data Structures and Algorithms to solve problems efficiently**
 
@@ -17,7 +17,7 @@
 - 📄 My Personal Portfolio : **https://simrananand112.wixsite.com/website**
 - 💎 GitHub Generated Resume: **https://resume.github.io/?SimranAnand1**
 
-- 💬 Ask me about **NLP, ML, Databases, Data Structures, Data Analytics, Programming languages like Java, Python, R and SQL**
+- 💬 Ask me about **NLP, ML, Databases, Data Structures and Algorithms, Data Analytics, Programming languages like Java, Python, R and SQL**
 
 - 📫 To know more about me:  **https://simrananand112.wixsite.com/website** or **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
 - 🔸 Email:  simrananand112@gmail.com
