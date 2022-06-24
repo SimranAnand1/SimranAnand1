@@ -32,11 +32,12 @@ https://medium.com/@simmusaara/the-elegant-front-end-comes-only-after-the-tediou
 <p align="left">
 <a href="https://linkedin.com/in/simran-anand-157a821a5/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/simran-anand-157a821a5/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Simran_Anand1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/Simran_Anand1" height="30" width="40" /></a>
-<a href="https://medium.com/@simmusaara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@simmusaara" height="30" width="40" /></a>
-<a href="https://dev.to/simrananand1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/simrananand1" height="30" width="40" /></a>
-<a href="https://kaggle.com/simrananand1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="simrananand1" height="30" width="40" /></a>
-<a href="https://instagram.com/simran_anand._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="simran_anand._" height="30" width="40" /></a>
-<a href="https://leetcode.com/simrananand/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="https://leetcode.com/simrananand/" height="30" width="40" /></a>
+<a href="https://medium.com/@simmusaara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" alt="@simmusaara" height="30" width="40" /></a>
+<a href="https://dev.to/simrananand1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dev-dot-to.svg" alt="https://dev.to/simrananand1" height="30" width="40" /></a>
+<a href="https://kaggle.com/simrananand1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" alt="simrananand1" height="30" width="40" /></a>
+<a href="https://instagram.com/simran_anand._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="simran_anand._" height="30" width="40" /></a>
+<a href="https://leetcode.com/simrananand/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="https://leetcode.com/simrananand/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/simran_anand1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="simran_anand1" height="30" width="40" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
