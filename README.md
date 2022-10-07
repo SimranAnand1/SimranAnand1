@@ -22,6 +22,8 @@
 - 📫 To know more about me:  **https://simrananand112.wixsite.com/website** or **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
 - 🔸 Email:  simrananand112@gmail.com
 
+- Like and Subscribe to my YouTube channel: https://www.youtube.com/channel/UCHNkA15KHRoljTA2qhwwDEA/featured
+
 - ⚡ Personality fact :  **Persistent, amicable and logophile! A people person and I like helping people for motivation and advice. An effective communicator with strong analytical and interpersonal skills!**
 - ⭐ **Some of my blogs are below!**
 https://link.medium.com/Y6yXUW2K9eb
