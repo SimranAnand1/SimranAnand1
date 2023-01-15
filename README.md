@@ -20,9 +20,8 @@
 - 💬 Ask me about **NLP, ML, Databases, Data Structures and Algorithms, Data Analytics, Programming languages like Java, Python, R and SQL**
 
 - 📫 To know more about me: **[https://www.linkedin.com/in/simran-anand-157a821a5](https://www.linkedin.com/in/simran-anand-157a821a5)**
-- 🔸 If you want to get guidance on preparing for interviews, building resume, LinkedIn profile or get advice on career and projects/coding, book a 1:1 session: **topmate.io/simran_anand**
 
-- Do Like and Subscribe to my **YouTube channel: https://www.youtube.com/channel/UCHNkA15KHRoljTA2qhwwDEA**
+- 🔸 Do Like and Subscribe to my **YouTube channel: https://www.youtube.com/channel/UCHNkA15KHRoljTA2qhwwDEA**
 
 - ⚡ Personality fact :  **Persistent, amicable and logophile! A people person and I like helping people for motivation and advice. An effective communicator with strong analytical and interpersonal skills!**
 - ⭐ **Some of my blogs are below!**
